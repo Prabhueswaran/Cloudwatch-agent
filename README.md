@@ -13,6 +13,7 @@ Ref Link: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/downloa
 ## Configure Script for collect metrics
 
 > sudo apt-get install unzip
+> 
 > sudo apt-get install libwww-perl libdatetime-perl
 
 ## Install the Monitoring Scripts
